@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260301-074321-1k8a",
+    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-03-01T13:43:21.000Z",
+    "dateEnd": "2026-03-01T15:38:49.000Z",
+    "dateLabel": "3/1/2026, 7:43:21 AM - 3/1/2026, 9:38:49 AM",
+    "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260301-074321-1k8a",
+    "summary": {
+      "borderlandsPct": 0.07142857142857142,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 39
+    }
+  },
+  {
     "id": "20260222-073832-li8y",
     "title": "Fiddyb, Thugmancer",
     "commanders": [
