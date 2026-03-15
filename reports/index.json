@@ -1,89 +1,126 @@
-[
-  {
-    "id": "20260301-150512-6gm7",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-03-01T21:05:12.000Z",
-    "dateEnd": "2026-03-01T22:52:31.000Z",
-    "dateLabel": "3/1/2026, 3:05:12 PM - 3/1/2026, 4:52:31 PM",
-    "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260301-150512-6gm7",
-    "summary": {
-      "borderlandsPct": 0.125,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 36
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260301-074321-1k8a",
-    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Fiddyb",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-03-01T13:43:21.000Z",
-    "dateEnd": "2026-03-01T15:38:49.000Z",
-    "dateLabel": "3/1/2026, 7:43:21 AM - 3/1/2026, 9:38:49 AM",
-    "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260301-074321-1k8a",
-    "summary": {
-      "borderlandsPct": 0.07142857142857142,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260315-084812-8qq8",
+      "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260222-073832-li8y",
-    "title": "Fiddyb, Thugmancer",
-    "commanders": [
-      "Fiddyb",
-      "Thugmancer"
-    ],
-    "dateStart": "2026-02-22T13:38:32.000Z",
-    "dateEnd": "2026-02-22T15:22:31.000Z",
-    "dateLabel": "2/22/2026, 7:38:32 AM - 2/22/2026, 9:22:31 AM",
-    "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260222-073832-li8y",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-15T13:48:12.000Z",
+      "dateEnd": "2026-03-15T15:23:36.000Z",
+      "dateLabel": "3/15/2026, 8:48:12 AM - 3/15/2026, 10:23:36 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260315-084812-8qq8",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260301-150512-6gm7",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 32
+      "dateStart": "2026-03-01T21:05:12.000Z",
+      "dateEnd": "2026-03-01T22:52:31.000Z",
+      "dateLabel": "3/1/2026, 3:05:12 PM - 3/1/2026, 4:52:31 PM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260301-150512-6gm7",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260301-074321-1k8a",
+      "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-03-01T13:43:21.000Z",
+      "dateEnd": "2026-03-01T15:38:49.000Z",
+      "dateLabel": "3/1/2026, 7:43:21 AM - 3/1/2026, 9:38:49 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260301-074321-1k8a",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260222-073832-li8y",
+      "title": "Fiddyb, Thugmancer",
+      "commanders": [
+        "Fiddyb",
+        "Thugmancer"
+      ],
+      "dateStart": "2026-02-22T13:38:32.000Z",
+      "dateEnd": "2026-02-22T15:22:31.000Z",
+      "dateLabel": "2/22/2026, 7:38:32 AM - 2/22/2026, 9:22:31 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260222-073832-li8y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 32
+      }
     }
-  }
-]
+  ]
+}
