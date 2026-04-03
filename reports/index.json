@@ -3,6 +3,44 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260403-084903-l9t6",
+      "title": "Thugmancer",
+      "commanders": [
+        "Thugmancer"
+      ],
+      "dateStart": "2026-04-03T13:49:03.000Z",
+      "dateEnd": "2026-04-03T15:25:27.000Z",
+      "dateLabel": "4/3/2026, 8:49:03 AM - 4/3/2026, 10:25:27 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260403-084903-l9t6",
+      "summary": {
+        "borderlandsPct": 0.4117647058823529,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260328-152508-ekce",
       "title": "Alàide",
       "commanders": [
