@@ -3,6 +3,36 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-082729-vxqd",
+      "title": "Critsus, Mofo Mafia, Rïo Grande",
+      "commanders": [
+        "Critsus",
+        "Mofo Mafia",
+        "Rïo Grande"
+      ],
+      "dateStart": "2026-04-17T13:27:29.000Z",
+      "dateEnd": "2026-04-17T14:59:00.000Z",
+      "dateLabel": "4/17/2026, 8:27:29 AM - 4/17/2026, 9:59:00 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260417-082729-vxqd",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260411-084358-ip0z",
       "title": "Alpha Thug",
       "commanders": [
