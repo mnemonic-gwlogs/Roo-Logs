@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260501-083514-roef",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-05-01T13:35:14.000Z",
+      "dateEnd": "2026-05-01T14:52:34.000Z",
+      "dateLabel": "5/1/2026, 8:35:14 AM - 5/1/2026, 9:52:34 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260501-083514-roef",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 76
+      }
+    },
+    {
       "id": "20260426-090629-4cbs",
       "title": "Alpha Thug, Furry Fluffy Fur",
       "commanders": [
