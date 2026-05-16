@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-225429-ckoj",
+      "title": "Alàide, Alpha Thug",
+      "commanders": [
+        "Alàide",
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-05-16T03:54:29.000Z",
+      "dateEnd": "2026-05-16T15:04:46.000Z",
+      "dateLabel": "5/15/2026, 10:54:29 PM - 5/16/2026, 10:04:46 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260515-225429-ckoj",
+      "summary": {
+        "borderlandsPct": 0.625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260508-083538-7b8h",
       "title": "Alpha Thug",
       "commanders": [
