@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-083953-byj7",
+      "title": "Alpha Thug, Fiddyb",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb"
+      ],
+      "dateStart": "2026-05-23T13:39:53.000Z",
+      "dateEnd": "2026-05-23T14:55:07.000Z",
+      "dateLabel": "5/23/2026, 8:39:53 AM - 5/23/2026, 9:55:07 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260523-083953-byj7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 81
+      }
+    },
+    {
       "id": "20260516-085714-svye",
       "title": "Alpha Thug",
       "commanders": [
