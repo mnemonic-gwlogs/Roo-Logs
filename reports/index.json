@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-090451-rslx",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-06-06T14:04:51.000Z",
+      "dateEnd": "2026-06-06T15:10:12.000Z",
+      "dateLabel": "6/6/2026, 9:04:51 AM - 6/6/2026, 10:10:12 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260606-090451-rslx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260605-084017-uhbh",
       "title": "Alpha Thug",
       "commanders": [
