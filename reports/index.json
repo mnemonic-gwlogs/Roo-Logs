@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-083001-90df",
+      "title": "Kuruptess",
+      "commanders": [
+        "Kuruptess"
+      ],
+      "dateStart": "2026-06-12T13:30:01.000Z",
+      "dateEnd": "2026-06-12T15:08:08.000Z",
+      "dateLabel": "6/12/2026, 8:30:01 AM - 6/12/2026, 10:08:08 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260612-083001-90df",
+      "summary": {
+        "borderlandsPct": 0.0625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260606-090451-rslx",
       "title": "Alpha Thug, Mofo Mafia",
       "commanders": [
