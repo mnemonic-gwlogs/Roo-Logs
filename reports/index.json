@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-085235-eyha",
+      "title": "Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-06-27T13:52:35.000Z",
+      "dateEnd": "2026-06-27T15:27:50.000Z",
+      "dateLabel": "6/27/2026, 8:52:35 AM - 6/27/2026, 10:27:50 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260627-085235-eyha",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260614-083413-1pn0",
       "title": "Alpha Thug",
       "commanders": [
