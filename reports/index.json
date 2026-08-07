@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-083936-smoa",
+      "title": "Critsus",
+      "commanders": [
+        "Critsus"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-07T13:39:36.000Z",
+      "dateEnd": "2026-08-07T14:50:52.000Z",
+      "dateLabel": "8/7/2026, 8:39:36 AM - 8/7/2026, 9:50:52 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260807-083936-smoa",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260801-083112-oqw0",
       "title": "Alpha Thug, Mofo Mafia",
       "commanders": [
