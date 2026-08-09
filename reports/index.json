@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-084307-rywf",
+      "title": "Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-09T13:43:07.000Z",
+      "dateEnd": "2026-08-09T14:59:02.000Z",
+      "dateLabel": "8/9/2026, 8:43:07 AM - 8/9/2026, 9:59:02 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260809-084307-rywf",
+      "summary": {
+        "borderlandsPct": 0.06451612903225806,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260807-083936-smoa",
       "title": "Critsus",
       "commanders": [
