@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-081650-1sfd",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-22T13:16:50.000Z",
+      "dateEnd": "2026-08-22T15:03:35.338Z",
+      "dateLabel": "8/22/2026, 8:16:50 AM - 8/22/2026, 10:03:35 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260822-081650-1sfd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260815-084253-9xf3",
       "title": "Mofo Mafia",
       "commanders": [
