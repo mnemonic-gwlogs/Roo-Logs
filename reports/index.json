@@ -4,6 +4,46 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-083215-9hjr",
+      "title": "Alpha Thug, Critsus, Fiddyb",
+      "commanders": [
+        "Alpha Thug",
+        "Critsus",
+        "Fiddyb"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-09-07T13:32:15.000Z",
+      "dateEnd": "2026-09-07T15:00:53.296Z",
+      "dateLabel": "9/7/2026, 8:32:15 AM - 9/7/2026, 10:00:53 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260907-083215-9hjr",
+      "summary": {
+        "borderlandsPct": 0.4230769230769231,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260830-083323-tysv",
       "title": "Alpha Thug, Mofo Mafia",
       "commanders": [
