@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-083115-60fb",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-09-18T13:31:15.000Z",
+      "dateEnd": "2026-09-18T14:56:21.673Z",
+      "dateLabel": "9/18/2026, 8:31:15 AM - 9/18/2026, 9:56:21 AM",
+      "url": "https://mnemonic-gwlogs.github.io/Roo-Logs/?report=20260918-083115-60fb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260912-081947-ljnk",
       "title": "Alpha Thug, Riowind",
       "commanders": [
